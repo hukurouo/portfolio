@@ -7,7 +7,7 @@
 
 [https://github.com/hukurouo/5maker](https://github.com/hukurouo/5maker)  
 
-![ss1](https://raw.githubusercontent.com/hukurouo/portfolio/images/rapture_20190428221345.png)
+
 
 ![ss2](https://raw.githubusercontent.com/hukurouo/portfolio/images/rapture_20190428221346.png)
 
@@ -28,9 +28,9 @@ N予備校のプログラミング入門を終えた後、html, css, javascript 
 
 ![af_2](https://raw.githubusercontent.com/hukurouo/portfolio/images/af_2.png)
 
-自分がよくやっている TapTitans2 という海外ゲームの、レベル最適化ツール。
+自分がよくやっている TapTitans2 という海外ゲームのレベル最適化ツールです。
 
-Rails と heroku の仕様に慣れておきたかったのと、あと単純にこういうツールがあったら便利だなと思って制作。
+Rails と heroku の仕様に慣れておきたかったのと、単純にこういうツールがあったら便利だなと思い制作。
 
 静的ページを Rails に担当させ、javascript で数値を計算し、heroku でサービスを公開した。
 
