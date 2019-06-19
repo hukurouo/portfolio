@@ -22,7 +22,6 @@ GitHub：[https://github.com/hukurouo/5maker](https://github.com/hukurouo/5maker
     
 ### 2. [レベル最適化ツール](https://tt2japanese.herokuapp.com/optimiser)
 
-![af_1](https://raw.githubusercontent.com/hukurouo/portfolio/images/af_1.png)
 
 ![af_2](https://raw.githubusercontent.com/hukurouo/portfolio/images/af_2.png)
 
