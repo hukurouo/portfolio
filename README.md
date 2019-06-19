@@ -20,10 +20,9 @@ N予備校のプログラミング入門を終えた後、html, css, javascript 
     
 ### 2. [レベル最適化ツール](https://tt2japanese.herokuapp.com/optimiser)
 
+![af_1](https://raw.githubusercontent.com/hukurouo/portfolio/images/af_1.png)
 
-<img src="https://raw.githubusercontent.com/hukurouo/portfolio/images/af_1.png" width=300px>
-
-<img src="https://raw.githubusercontent.com/hukurouo/portfolio/images/af_2.png" width=250px>
+![af_2](https://raw.githubusercontent.com/hukurouo/portfolio/images/af_2.png)
 
 自分がよくやっている TapTitans2 という海外ゲームの、レベル最適化ツール。
 
