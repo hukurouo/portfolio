@@ -7,8 +7,6 @@
 
 ![ss_1](https://github.com/hukurouo/portfolio/blob/images/rapture_20190428221345.png)
 ![ss_2](https://github.com/hukurouo/portfolio/blob/images/rapture_20190428221346.png)
-<img src="" alt="ss_1" title="ss_1">
-<img src="https://github.com/hukurouo/portfolio/blob/images/rapture_20190428221346.png" alt="ss_2" title="ss_2">
 
 N予備校のプログラミング入門を終えた後、html, css, javascript の復習を兼ねて作ったアプリ。
 
