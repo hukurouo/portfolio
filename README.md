@@ -26,9 +26,9 @@ N予備校のプログラミング入門を終えた後、html, css, javascript 
 
 [https://github.com/hukurouo/tt2ja](https://github.com/hukurouo/tt2ja)
 
-![af_2](https://raw.githubusercontent.com/hukurouo/portfolio/images/af_2.png)
+![af](https://raw.githubusercontent.com/hukurouo/portfolio/images/af_3.png)
 
-自分がよくやっている TapTitans2 という海外ゲームのレベル最適化ツールです。
+自分がよくやっている TapTitans2 という海外ゲームのレベル最適化ツール。
 
 Rails と heroku の仕様に慣れておきたかったのと、単純にこういうツールがあったら便利だなと思い制作。
 
@@ -42,3 +42,32 @@ Rails と heroku の仕様に慣れておきたかったのと、単純にこう
 v1.5 で フォームの内容をクッキーに保存できるようになった。
 
 Qiita：[Railsでフォームの内容をcookieに保存する](https://qiita.com/owlbook248/items/77ff82694fd9297e5084)
+
+
+---
+
+### 3. [おすすめ作品共有SNS 『susumeru』](https://susumeru.herokuapp.com/)
+
+[https://github.com/hukurouo/susumeru](https://github.com/hukurouo/susumeru)
+
+![susumeru](https://raw.githubusercontent.com/hukurouo/portfolio/images/susu1.png)
+
+Rails チュートリアルで作った SAMPLE APP を拡張して作ったSNSサービス。
+
+基本的なログイン機構・フォロー機能・投稿システムは Rails チュートリアルに沿って制作した。
+
+自分の手を動かして拡張した機能はこのようなところ。
+
+- プロフィールの説明欄
+- トップページの作成
+- micropost の拡張（タイトル・カテゴリー・ジャンルなどの追加）
+- ミュート
+- 投稿の編集
+- 検索
+- お気に入り
+- 通知
+
+Qiita：[Railsチュートリアルのサンプルアプリを拡張しておすすめ作品共有SNSを作った](https://qiita.com/owlbook248/items/cf5009f84d13c77ca764)
+
+制作日記：[64~65日目『おすすめ作品共有SNS』を作った](https://hukurounikki.hatenablog.jp/entry/2019/06/17/004043)
+
