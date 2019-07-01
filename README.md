@@ -73,4 +73,21 @@ Qiita：[Railsチュートリアルのサンプルアプリを拡張しておす
 
 ---
 
+### 4. [chrome拡張機能 『popup browser』](https://chrome.google.com/webstore/detail/popup-browser/mkcacjdndeohfnkioobenjpoifkecnjf)
+
+[https://github.com/hukurouo/popupWindow](https://github.com/hukurouo/popupWindow)
+
+![popup](https://raw.githubusercontent.com/hukurouo/portfolio/images/%E7%84%A1vvv%E9%A1%8C.png)
+
+ウィンドウをポップアップさせる拡張機能。複窓時など地味に重宝している。
+
+非同期処理を扱うコードをある程度読み書きできるようになった。
+
+Qiita：[はじめてのChrome拡張機能　ページをポップアップさせる](https://qiita.com/hukurouo/items/961575f00b4363df0b16)
+
+制作日記：[79日目『ウィンドウをポップアップさせる拡張機能』を作った](https://hukurounikki.hatenablog.jp/entry/2019/07/01/013614)
+
+
+---
+
 最終更新：2019/06/19 
