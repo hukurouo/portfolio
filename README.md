@@ -30,8 +30,6 @@ N予備校のプログラミング入門を終えた後、html, css, javascript 
 
 自分がよくやっている TapTitans2 という海外ゲームのレベル最適化ツール。
 
-Rails と heroku の仕様に慣れておきたかったのと、単純にこういうツールがあったら便利だなと思い制作。
-
 Rails で枠組みを作り、~~javascript で数値を計算し~~、heroku でサービスを公開した。
 
 (追記) 計算部分も ruby で書いて DOMの書き換えは ajax で行うようにした。cookie を導入。
