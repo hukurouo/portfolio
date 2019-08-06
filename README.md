@@ -22,7 +22,7 @@ N予備校のプログラミング入門を終えた後、html, css, javascript 
   ---
     
     
-### 2. [レベル最適化ツール](https://tt2japanese.herokuapp.com/optimiser)
+### 2. [TapTitans2 の補助ツールなど](https://tt2japanese.herokuapp.com/optimiser)
 
 [https://github.com/hukurouo/tt2ja](https://github.com/hukurouo/tt2ja)
 
@@ -34,17 +34,11 @@ Rails と heroku の仕様に慣れておきたかったのと、単純にこう
 
 Rails で枠組みを作り、~~javascript で数値を計算し~~、heroku でサービスを公開した。
 
-(追記) 計算部分も ruby で書いて DOMの書き換えは ajax で行うようにした。
+(追記) 計算部分も ruby で書いて DOMの書き換えは ajax で行うようにした。cookie を導入してフォームの内容を保存できるようにした。
 
 平均して1日100人程度のアクセスがあり、定期的にアップデートを行っている。
 
 制作日記：[40日目『レスポンシブデザインの海外ゲーム攻略ページ + 最適化ツール』を作った](https://hukurounikki.hatenablog.jp/entry/2019/05/21/231621)
-
-
-v1.5 で フォームの内容をクッキーに保存できるようになった。
-
-Qiita：[Railsでフォームの内容をcookieに保存する](https://qiita.com/owlbook248/items/77ff82694fd9297e5084)
-
 
 ---
 
@@ -89,7 +83,22 @@ Qiita：[はじめてのChrome拡張機能　ページをポップアップさ�
 
 制作日記：[79日目『ウィンドウをポップアップさせる拡張機能』を作った](https://hukurounikki.hatenablog.jp/entry/2019/07/01/013614)
 
+---
+
+### 5. 1年前にいいねしたツイートを送信するLINEbot
+
+[https://github.com/hukurouo/tw-to-line-iine](https://github.com/hukurouo/tw-to-line-iine)
+
+![bot](https://raw.githubusercontent.com/hukurouo/portfolio/images/rapture_20190806223203.png)
+
+APIの勉強も兼ねて作ったBOTシステム。言語はRubyを使用した。
+
+herokuにサーバーを置いており、getコマンドを送ると1年前にいいねしたツイートを送ってくれる。日付指定も可能。
+
+JSON形式のデータの取り扱い、twitter・lineAPI の使い方などを会得した。
+
+制作日記：[116日目『1年前にいいねしたツイートを送信するLINEbot』を作った](https://hukurounikki.hatenablog.jp/entry/2019/08/06/224327)
 
 ---
 
-最終更新：2019/07/27
+最終更新：2019/08/06
