@@ -44,7 +44,7 @@ Rails で枠組みを作り、~~javascript で数値を計算し~~、heroku で�
 
 [https://github.com/hukurouo/susumeru](https://github.com/hukurouo/susumeru)
 
-![susumeru](https://raw.githubusercontent.com/hukurouo/portfolio/images/susu1.png)
+![susumeru](https://raw.githubusercontent.com/hukurouo/portfolio/images/rapture_20200409200117.png)
 
 Rails チュートリアルで作った SAMPLE APP を拡張して作ったSNSサービス。
 
